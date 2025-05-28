@@ -1,6 +1,6 @@
 # Present-2-different-UX-project-scenarios-same
-# Name:Pranav Krishna T
-# Reg No:212224040241
+# Name:steve nittin sylus
+# Reg No:212224040331
 
 # Present Two Different UX Project Scenarios
 
